@@ -170,6 +170,17 @@ text-decoration:none;
     color: white;
 
 }
+#inicio img:hover{
+    height: 410px;
+
+}
+#inicio p{
+      color: white;
+      font-size: 17px;
+      border:1px white solid ;
+      border-radius: 15px;
+      font-weight: 600;
+}
 
 footer .whatsapp a {
     color: white;
@@ -187,4 +198,12 @@ footer .whatsapp a {
         background-size: contain;
         background-repeat: no-repeat;
     }
+}
+.jimmy-perfiljpg{
+    border-radius: 100px;
+    height: 100px;
+}
+#starck-tecnologico{
+    background-color: #e20000;
+
 }
